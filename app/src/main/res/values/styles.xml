@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+
+    <style name="btn" parent="android:Widget.Button">
+        <item name="android:background">@drawable/back1</item>
+        <item name="android:textColor">#b01010</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:typeface">serif</item>
+    </style>
+</resources>

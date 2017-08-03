@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">PassMgr</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_pass_mgr">PassMgr</string>
+    <string name="title_activity_pass_mgr_app">PassMgrApp</string>
+    <string name="title_activity_add_pass">AddPass</string>
+    <string name="title_activity_search_pass">SearchPass</string>
+    <string name="title_activity_update_pass">UpdatePass</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_change_pass">ChangePass</string>
+
+</resources>

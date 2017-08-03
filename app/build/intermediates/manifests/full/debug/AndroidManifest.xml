@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ssipmt.passmgr"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="15" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:name="com.ssipmt.passmgr.MyCustApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.ssipmt.passmgr.PassMgr"
+            android:label="@string/title_activity_pass_mgr"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.ssipmt.passmgr.PassMgrApp"
+            android:label="@string/title_activity_pass_mgr_app" >
+        </activity>
+        <activity
+            android:name="com.ssipmt.passmgr.AddPass"
+            android:label="@string/title_activity_add_pass" >
+        </activity>
+        <activity
+            android:name="com.ssipmt.passmgr.SearchPass"
+            android:label="@string/title_activity_search_pass" >
+        </activity>
+        <activity
+            android:name="com.ssipmt.passmgr.UpdatePass"
+            android:label="@string/title_activity_update_pass" >
+        </activity>
+        <activity
+            android:name="com.ssipmt.passmgr.Login"
+            android:label="@string/title_activity_login" >
+        </activity>
+        <activity
+            android:name="com.ssipmt.passmgr.Register"
+            android:label="@string/title_activity_register" >
+        </activity>
+        <activity
+            android:name="com.ssipmt.passmgr.ChangePass"
+            android:label="@string/title_activity_change_pass" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/button1"
+        style="@style/btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="28dp"
+        android:text="Search Password" />
+
+    <Button
+        android:id="@+id/Button01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/button1"
+        android:layout_marginTop="18dp"
+        android:background="@drawable/back1"
+        android:text="Add Password"
+        android:textColor="#b01010"
+        android:textSize="20sp"
+        android:typeface="serif" />
+
+    <Button
+        android:id="@+id/Button02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Button01"
+        android:layout_marginTop="26dp"
+        android:background="@drawable/back1"
+        android:text="Change Login Password"
+        android:textColor="#b01010"
+        android:textSize="20sp"
+        android:typeface="serif" />
+
+</RelativeLayout><!-- From: file:/C:/Users/Singhvi/AndroidStudioProjects/PassMgr/app/src/main/res/layout/activity_pass_mgr_app.xml -->

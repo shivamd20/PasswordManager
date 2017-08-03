@@ -1,0 +1,168 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* PassMgr\
+* PassMgr\.classpath
+* PassMgr\.project
+* PassMgr\AndroidManifest.xml
+* PassMgr\bin\
+* PassMgr\bin\AndroidManifest.xml
+* PassMgr\bin\PassMgr.apk
+* PassMgr\bin\classes\
+* PassMgr\bin\classes\com\
+* PassMgr\bin\classes\com\ssipmt\
+* PassMgr\bin\classes\com\ssipmt\passmgr\
+* PassMgr\bin\classes\com\ssipmt\passmgr\AddPass$1.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\AddPass.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\BuildConfig.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\ChangePass$1.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\ChangePass.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\Login$1.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\Login$2.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\Login.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\PMUtil.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\PassMgr$1.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\PassMgr.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\PassMgrApp$1.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\PassMgrApp$2.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\PassMgrApp$3.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\PassMgrApp.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\R$anim.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\R$attr.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\R$drawable.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\R$id.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\R$layout.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\R$menu.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\R$string.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\R$style.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\R.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\Register$1.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\Register.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\SearchPass$1$1.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\SearchPass$1.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\SearchPass.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\UpdatePass$1.class
+* PassMgr\bin\classes\com\ssipmt\passmgr\UpdatePass.class
+* PassMgr\bin\res\
+* PassMgr\bin\res\drawable-hdpi\
+* PassMgr\bin\res\drawable-hdpi\back.png
+* PassMgr\bin\res\drawable-hdpi\back1.png
+* PassMgr\bin\res\drawable-hdpi\ic_action_search.png
+* PassMgr\bin\res\drawable-hdpi\ic_launcher.png
+* PassMgr\bin\res\drawable-ldpi\
+* PassMgr\bin\res\drawable-ldpi\ic_launcher.png
+* PassMgr\bin\res\drawable-mdpi\
+* PassMgr\bin\res\drawable-mdpi\ic_action_search.png
+* PassMgr\bin\res\drawable-mdpi\ic_launcher.png
+* PassMgr\bin\res\drawable-xhdpi\
+* PassMgr\bin\res\drawable-xhdpi\ic_action_search.png
+* PassMgr\bin\res\drawable-xhdpi\ic_launcher.png
+* PassMgr\bin\resources.ap_
+* PassMgr\gen\
+* PassMgr\gen\com\
+* PassMgr\gen\com\ssipmt\
+* PassMgr\gen\com\ssipmt\passmgr\
+* PassMgr\gen\com\ssipmt\passmgr\BuildConfig.java
+* PassMgr\gen\com\ssipmt\passmgr\R.java
+* PassMgr\ic_launcher-web.png
+* PassMgr\libs\
+* PassMgr\libs\android-support-v4.jar
+* PassMgr\proguard-project.txt
+* PassMgr\project.properties
+* PassMgr\res\
+* PassMgr\res\anim\
+* PassMgr\res\anim\anim.xml
+* PassMgr\res\drawable-hdpi\
+* PassMgr\res\drawable-hdpi\back.png
+* PassMgr\res\drawable-hdpi\back1.png
+* PassMgr\res\drawable-hdpi\ic_action_search.png
+* PassMgr\res\drawable-hdpi\ic_launcher.png
+* PassMgr\res\drawable-hdpi\img.jpg
+* PassMgr\res\drawable-ldpi\
+* PassMgr\res\drawable-ldpi\ic_launcher.png
+* PassMgr\res\drawable-mdpi\
+* PassMgr\res\drawable-mdpi\ic_action_search.png
+* PassMgr\res\drawable-mdpi\ic_launcher.png
+* PassMgr\res\drawable-xhdpi\
+* PassMgr\res\drawable-xhdpi\ic_action_search.png
+* PassMgr\res\drawable-xhdpi\ic_launcher.png
+* PassMgr\res\layout\
+* PassMgr\res\layout\activity_add_pass.xml
+* PassMgr\res\layout\activity_change_pass.xml
+* PassMgr\res\layout\activity_login.xml
+* PassMgr\res\layout\activity_pass_mgr.xml
+* PassMgr\res\layout\activity_pass_mgr_app.xml
+* PassMgr\res\layout\activity_register.xml
+* PassMgr\res\layout\activity_search_pass.xml
+* PassMgr\res\layout\activity_update_pass.xml
+* PassMgr\res\menu\
+* PassMgr\res\menu\activity_add_pass.xml
+* PassMgr\res\menu\activity_change_pass.xml
+* PassMgr\res\menu\activity_login.xml
+* PassMgr\res\menu\activity_pass_mgr.xml
+* PassMgr\res\menu\activity_pass_mgr_app.xml
+* PassMgr\res\menu\activity_register.xml
+* PassMgr\res\menu\activity_search_pass.xml
+* PassMgr\res\menu\activity_update_pass.xml
+* PassMgr\res\menu\mymenu.xml
+* PassMgr\res\values\
+* PassMgr\res\values\strings.xml
+* PassMgr\res\values\styles.xml
+* PassMgr\src\
+* PassMgr\src\com\
+* PassMgr\src\com\ssipmt\
+* PassMgr\src\com\ssipmt\passmgr\
+* PassMgr\src\com\ssipmt\passmgr\AddPass.java
+* PassMgr\src\com\ssipmt\passmgr\ChangePass.java
+* PassMgr\src\com\ssipmt\passmgr\Login.java
+* PassMgr\src\com\ssipmt\passmgr\PMUtil.java
+* PassMgr\src\com\ssipmt\passmgr\PassMgr.java
+* PassMgr\src\com\ssipmt\passmgr\PassMgrApp.java
+* PassMgr\src\com\ssipmt\passmgr\Register.java
+* PassMgr\src\com\ssipmt\passmgr\SearchPass.java
+* PassMgr\src\com\ssipmt\passmgr\UpdatePass.java
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
